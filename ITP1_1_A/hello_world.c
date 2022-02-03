@@ -1,3 +1,5 @@
+/* Add a new comment */
+
 #include <stdio.h>
 
 int main(void)
